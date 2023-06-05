@@ -17,7 +17,7 @@ do
     setreadonly(m_thread, true)
 end
 
-local library, pointers = loadstring(game:HttpGet("https://pastebin.com/raw/Q43KL2RS"))()
+local library, pointers = loadstring(game:HttpGet('https://raw.githubusercontent.com/BinbinvoGaming/Roblox-UI-Libs/main/Octernal%20Lib/Octernal%20Lib%20Source.lua'))()
 do
 
 
