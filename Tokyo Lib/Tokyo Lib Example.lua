@@ -3,8 +3,8 @@ local Clock = os.clock()
 local ValueText = "Value Is Now :"
 
 local library = loadstring(game:HttpGet("https://raw.githubusercontent.com/dohmai/Tokyo/main/Libraries/UI"))({
-    cheatname = "Title Here", -- watermark text
-    gamename = "Title Here", -- watermark text
+    cheatname = "Menu Hub", -- watermark text
+    gamename = "Menu Hub", -- watermark text
 })
 
 library:init()
